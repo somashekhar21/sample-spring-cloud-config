@@ -1,0 +1,49 @@
+07 November 2020
+---------------------------------------------------
+Application : config-local
+http://localhost:8191/service1/default
+http://localhost:8191/service2/default
+
+
+
+---------------------------------------------------
+Udemy -- Master Microservices with Spring Boot and Spring Cloud
+03-10-2020
+What is Web Services?
+W3C Deifinition
+Software system designed to support interoperable machine to machine interaction over a network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
